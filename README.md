@@ -21,13 +21,13 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/data_model.png" height="400">
+  <img src="(https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/data_model.png)" height="400">
 </p>
 
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Naveen-S6/AtliQ_Mart_Supply_Chain_Analysis/blob/main/resources/Dashboard.jpg" width="300">
+  <img src="https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/Dashboard.jpg" width="300">
 </p>
 
 ## Some Major Insights 
