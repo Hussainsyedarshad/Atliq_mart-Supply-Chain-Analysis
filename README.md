@@ -1,4 +1,4 @@
-
+# Atliq_mart-supply-chain-Analysis
 
 # Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
@@ -60,8 +60,9 @@ To perform this task, the process involved were:
 
 
 ## **Insights**
-[![Power_BI REPORT]
-(https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/Screenshot%202026-03-12%20161359.png) 
-(https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/AtilQ%20Mart%20(1).pbix)
+[![main REPORT](https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/Screenshot%202026-03-12%20161359.png)
+[![Product metrics](https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/Screenshot%202026-03-12%20161419.png)
+[![customer metrics](https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/Screenshot%202026-03-12%20161439.png)
+[![Power_BI REPORT](https://github.com/Hussainsyedarshad/Atliq_mart-Supply-Chain-Analysis/blob/main/AtilQ%20Mart%20(1).pbix)
 
 click to view power BI dashboard
